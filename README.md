@@ -1,27 +1,108 @@
-![logo](https://github.com/itx-ali-raza/ALI-MD-OWN/blob/main/GitHub%20Banner.png)
-<h1 align="center">HEY 👋🏻, I'M ALI RAZA </h1>
-<h3 align="center">A passionate Software Engineer from pak</h3>
+<!-- ⚡ ALI-INXIDE — CyberGlow Ultimate Edition v2 ⚡ -->
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<h1 align="center">
+  <b>Building Bots, Breaking Limits — ALI-INXIDE 👑</b><br>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
+</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutosh-pmishra&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-pmishra" /> </p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="350">
+</p>
 
+<p align="center">
+  <a href="https://github.com/ALI-INXIDE">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F5FF&center=true&vCenter=true&width=750&lines=⚡+Developer+|+Innovator+|+Cyber+Engineer;🚀+Bot+Creator+%26+Automation+Expert;💻+Welcome+to+ALI-INXIDE's+Digital+Universe!">
+  </a>
+</p>
 
-- ⚡ Fun fact **I am funny😅**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/itx-alii-raza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="itx-alii-raza" height="30" width="40" /></a>
-<a href="https://www.instagram.com/itx.your_aly?igsh=YzljYTk1ODg3Zg==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="simplified_learner" height="30" width="40" /></a>
+### 🧠 ABOUT ME
+- 💥 Passionate **Bot Developer & Automation Architect**
+- ⚙️ Creator of **Smart AI WhatsApp Bots & Tools**
+- 💻 Skilled in **JavaScript | Node.js | Python**
+- ☁️ Exploring **Cloud Hosting | API Security | AI Systems**
+- 💬 Motto: *“Innovation isn’t a skill — it’s an instinct.”*
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/simplified"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="simplified learner" /></a></p><br><br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itx-alii-raza&show_icons=true&locale=en&layout=compact" alt="itx-alii-raza" /></p>
+## ⚙️ TECH ARSENAL
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itx-alii-raza&show_icons=true&locale=en" alt="itx-alii-raza" /></p>
+<p align="center">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itx-alii-raza&" alt="itx-alii-raza" /></p>
+**LANGUAGES:**
+  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+<br>
+
+**TOOLS & TECH:**
+  
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![MegaJS](https://img.shields.io/badge/MegaJS-FF0000?style=for-the-badge&logo=mega&logoColor=white)
+
+<br>
+
+**EXTRAS:**
+
+![Terminal](https://img.shields.io/badge/Terminal-0A0A0A?style=for-the-badge&logo=gnubash&logoColor=white)
+![Automation](https://img.shields.io/badge/Automation-007ACC?style=for-the-badge&logo=zapier&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+
+</p>
+
+---
+
+## 🚀 FEATURED PROJECT
+<p align="center">
+  <img src="https://github.com/ALI-INXIDE/ALI-MD/blob/main/media/banner.gif" width="80%">
+</p>
+
+---
+
+## 📊 GITHUB STATS
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ALI-INXIDE&theme=radical&hide_border=true" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ALI-INXIDE&show_icons=true&theme=radical&hide_border=true" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALI-INXIDE&layout=compact&theme=radical&hide_border=true" width="375"/>
+</div>
+
+---
+
+## 🧬 CONTRIBUTION
+
+<p align="center">
+  <img src="https://github.com/ALI-INXIDE/ALI-INXIDE/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
+
+---
+
+## 🌏 CONNECT WITH ME
+
+<p align="center">
+  <a href="https://github.com/ALI-INXIDE"><img src="https://img.shields.io/badge/GitHub-ALI--INXIDE-181717?style=for-the-badge&logo=github" /></a>
+  <a href="https://t.me/ALI_INXIDE"><img src="https://img.shields.io/badge/Telegram-ALI__INXIDE-0088cc?style=for-the-badge&logo=telegram" /></a>
+  <a href="mailto:aliinxide@gmail.com"><img src="https://img.shields.io/badge/Gmail-aliinxide%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=00F5FF&size=22&center=true&vCenter=true&width=600&lines=👑+Building+Bots,+Breaking+Limits+👑;⚙️+Developed+with+Passion+by+ALI-INXIDE+⚙️">
+</div>
+
+<img src="https://github.com/ALI-INXIDE/ALI-INXIDE/blob/main/assets/glow-line.gif" width="100%">
+
+<p align="center">
+  <b>✨ Thanks for visiting — Keep coding, keep evolving. ⚡</b>
+</p>
