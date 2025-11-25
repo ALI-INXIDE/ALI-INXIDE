@@ -1,9 +1,9 @@
 <!-- ⚡ ALI-INXIDE — CyberGlow Ultimate Edition v2 ⚡ -->
 
-<h1 align="center">
-  <b>Building Bots, Breaking Limits — ALI-INXIDE 👑</b><br>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
-</h1>
+<body>
+  <center>
+<h1 align="center">WELCOME TO MY PROFILE 🎀</h1>
+<br>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="350">
