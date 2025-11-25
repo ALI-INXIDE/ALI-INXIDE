@@ -26,46 +26,27 @@
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## ⚙️ TECH ARSENAL
-
-<p align="center">
-
-**LANGUAGES:**
-  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-<br>
-
-**TOOLS & TECH:**
-  
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![MegaJS](https://img.shields.io/badge/MegaJS-FF0000?style=for-the-badge&logo=mega&logoColor=white)
-
-<br>
-
-**EXTRAS:**
-
-![Terminal](https://img.shields.io/badge/Terminal-0A0A0A?style=for-the-badge&logo=gnubash&logoColor=white)
-![Automation](https://img.shields.io/badge/Automation-007ACC?style=for-the-badge&logo=zapier&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-
+### 💻 LANGUAGES
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=typescript,go,cs,python,dart" />
 </p>
 
----
-
-## 🚀 FEATURED PROJECT
-<p align="center">
-  <img src="https://github.com/ALI-INXIDE/ALI-MD/blob/main/media/banner.gif" width="80%">
+### 🛠️ FRAMEWORKS & TOOLS
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,unity,nextjs,nestjs,postgresql,express" />
 </p>
+
+### 🔧 ADDITIONAL TECHNOLOGIES
+<p align="left">
+  <img src="https://img.shields.io/badge/-Supabase-34B27B?style=flat-square&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Render-46E3B7?style=flat-square&logo=render&logoColor=white" />
+  <img src="https://img.shields.io/badge/-OpenAI-000000?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Linux-34B27B?style=flat-square&logo=linux&logoColor=white" />
+</p>
+
 
 ---
 
