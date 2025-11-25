@@ -17,7 +17,7 @@
 
 ---
 
-### 🧠 ABOUT ME
+### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px"> ABOUT ME
 - 💥 Passionate **Bot Developer & Automation Architect**
 - ⚙️ Creator of **Smart AI WhatsApp Bots & Tools**
 - 💻 Skilled in **JavaScript | Node.js | Python**
@@ -50,7 +50,7 @@
 
 ---
 
-## 📊 GITHUB STATS
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> GITHUB STATS
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ALI-INXIDE&theme=radical&hide_border=true" width="450"/>
